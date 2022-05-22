@@ -1,3 +1,9 @@
 [submodule "spec"]
 	path = spec
 	url = ./spec
+[submodule "templates"]
+	path = templates
+	url = ./templates
+[submodule "docopt-to-opencli"]
+	path = docopt-to-opencli
+	url = ./docopt-to-opencli
